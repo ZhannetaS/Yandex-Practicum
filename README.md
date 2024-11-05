@@ -13,4 +13,4 @@
 |[Определение наиболее выгодного региона нефтедобычи](https://github.com/ZhannetaS/Yandex-Practicum/tree/main/Определение%20наиболее%20выгодного%20региона%20нефтедобычи)|Построение модели для определения региона, где добыча принесёт наибольшую прибыль.| *matplotlib, pandas, numpy, seaborn, scikit-learn*|
 |[Исследование технологического процесса очистки золота](https://github.com/ZhannetaS/Yandex-Practicum/tree/main/Исследование%20технологического%20процесса%20очистки%20золота)|Прогноз концентрации золота при проведении процесса очистки золота| *matplotlib, pandas, numpy, seaborn, scikit-learn*|
 |[Защита данных клиентов страховой компании](https://github.com/ZhannetaS/Yandex-Practicum/tree/main/Защита%20данных%20клиентов%20страховой%20компании)|Разработка модели анонимизации персональных данных| *matplotlib, pandas, numpy, seaborn, scikit-learn*|
- 
+|[Исследование надежности заемщиков банка](https://github.com/ZhannetaS/Yandex-Practicum/tree/main/Исследование%20надежности%20заемщиков )|Предобработка и исследовательский анализ данных| *pandas*|
